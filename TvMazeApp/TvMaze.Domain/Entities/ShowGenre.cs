@@ -1,7 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.Text.Json.Serialization;
-
-namespace TvMaze.Domain.Entities
+﻿namespace TvMaze.Domain.Entities
 {
     public class ShowGenre
     {

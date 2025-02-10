@@ -1,6 +1,5 @@
 ﻿using CodeFirst.Common.Expections;
 using MediatR;
-using System.Xml.Linq;
 using TvMaze.Application.Interfaces.Shows;
 using TvMaze.Domain.Entities;
 

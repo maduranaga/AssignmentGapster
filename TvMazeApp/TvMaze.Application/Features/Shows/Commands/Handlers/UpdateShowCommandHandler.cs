@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using MediatR;
-using TvMaze.Application.Interfaces;
 using TvMaze.Application.Interfaces.Shows;
 using TvMaze.Domain.Entities;
 
