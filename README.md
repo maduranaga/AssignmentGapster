@@ -34,12 +34,6 @@ Postman or Curl (for API testing)
 4. Start the Application
 5. API Endpoints 
 
-Method
-
-Endpoint
-
-Description
-
 GET
 
 /api/shows?page=1
