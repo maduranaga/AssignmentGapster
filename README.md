@@ -1,6 +1,6 @@
 # AssignmentGapster
 
-This solution implements Clean Architecture with CQRS, SQL LINQ Queries, Rate Limiting, Exception Handling, Unit Testing, Unit of Work, Generic Repository, Seril Logs,Caching (Redis), and Pagination.
+This solution implements Clean Architecture with CQRS, SQL LINQ Queries, Rate Limiting, Exception Handling, Unit Testing, Unit of Work, Generic Repository, Seril Logs,Caching , and Pagination.
 
 
 Before running the application, ensure you have the following installed:
